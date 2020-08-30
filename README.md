@@ -1,4 +1,4 @@
-# Caluclar Presupuesto Semanal
+# Calcular Presupuesto Semanal
 
 ## ⭐ Acerca del Proyecto
 
